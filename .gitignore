@@ -1,0 +1,17 @@
+# Local test documents — never commit these
+*.pdf
+*.docx
+*.txt
+!README.md
+
+# Environment / secrets
+.env
+*.env
+
+# n8n local data
+n8n_data/
+.n8n/
+
+# OS junk
+.DS_Store
+Thumbs.db
