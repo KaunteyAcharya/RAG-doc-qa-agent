@@ -1,4 +1,6 @@
 
+https://github.com/user-attachments/assets/7b26cda3-08e8-428d-92aa-b819eaf0a5f3
+
 
 # Local RAG Document Q&A Agent
 
