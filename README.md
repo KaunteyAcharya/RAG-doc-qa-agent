@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/083b1fd8-24e1-413c-9f25-c045bfc64e68
+
 # Local RAG Document Q&A Agent
 
 A fully local, free, and open-source Retrieval-Augmented Generation (RAG) pipeline for asking questions about your own documents - no cloud APIs, no API keys, no data leaving your machine.
